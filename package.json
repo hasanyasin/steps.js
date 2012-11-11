@@ -1,0 +1,18 @@
+{
+	"name": "steps.js",
+	"version": "0.6.0",
+	"description": "Minimalistic Library for Steps-Oriented Code Organization",
+	"main": "steps.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:hasanyasin/steps.js.git"
+	},
+	"keywords": [
+		"steps", "code organization", "steps-oriented", "events"
+	],
+	"author": "Hasan Yasin Öztürk",
+	"license": "MIT",
+	"contributors":[
+		{"name": "Hasan Yasin Öztürk","email": "hy@silkengine.com"}
+	]
+}
